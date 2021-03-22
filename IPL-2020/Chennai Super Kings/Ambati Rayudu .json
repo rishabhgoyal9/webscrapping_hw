@@ -1,0 +1,79 @@
+[
+    {
+        "Runs": 42,
+        "Bowls": "40",
+        "Fours": "4",
+        "Sixes": "0",
+        "StrikeRate": "105.00"
+    },
+    {
+        "Runs": 41,
+        "Bowls": "34",
+        "Fours": "3",
+        "Sixes": "2",
+        "StrikeRate": "120.59"
+    },
+    { 
+        "Runs": 13,
+        "Bowls": "19",
+        "Fours": "2",
+        "Sixes": "0",
+        "StrikeRate": "68.42"
+    },
+    {
+        "Runs": 30,
+        "Bowls": "27",
+        "Fours": "3",
+        "Sixes": "0",
+        "StrikeRate": "111.11"
+    },
+    {
+        "Runs": 38,
+        "Bowls": "20",
+        "Fours": "5",
+        "Sixes": "1",
+        "StrikeRate": "190.00"
+    },
+    {
+        "Runs": 2,
+        "Bowls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "StrikeRate": "66.67"
+    },
+    {
+        "Runs": 30,
+        "Bowls": "30",
+        "Fours": "2",
+        "Sixes": "0",
+        "StrikeRate": "100.00"
+    },
+    {
+        "Runs": 71,
+        "Bowls": "48",
+        "Fours": "6",
+        "Sixes": "3",
+        "StrikeRate": "147.92"
+    },
+    {
+        "Runs": 45,
+        "Bowls": "25",
+        "Fours": "1",
+        "Sixes": "4",
+        "StrikeRate": "180.00"
+    },
+    {
+        "Runs": 39,
+        "Bowls": "27",
+        "Fours": "3",
+        "Sixes": "2",
+        "StrikeRate": "144.44"
+    },
+    {
+        "Runs": 8,
+        "Bowls": "9",
+        "Fours": "1",
+        "Sixes": "0",
+        "StrikeRate": "88.89"
+    }
+]
